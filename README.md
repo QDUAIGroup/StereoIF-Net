@@ -43,6 +43,13 @@ Requirement:
 
 - CUDA 10.0
 
+Run:
+
+Step1:
+
+Step2:
+
+
 ============================================================================
 
 A stereoscopic image quality assessment metric based on binocular interaction and fusion.
