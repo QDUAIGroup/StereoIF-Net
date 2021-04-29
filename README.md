@@ -41,7 +41,9 @@ Requirement:
 
 - Python 3.6
 
-- TensorFlow 2.0.0 => Keras
+- TensorFlow 2.0.0 with Keras
+
+- GPU with RAM $\geq\$ 12GB
 
 - CUDA 10.0
 
