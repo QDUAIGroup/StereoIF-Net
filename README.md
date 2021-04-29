@@ -43,9 +43,11 @@ Requirement:
 
 - TensorFlow 2.0.0 with Keras
 
-- GPU with RAM &ge; 12GB
+- GPU with memory &ge; 12GB
 
 - CUDA 10.0
+
+- Matlab R2017b or later
 
 Run:
 
