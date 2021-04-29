@@ -43,7 +43,7 @@ Requirement:
 
 - TensorFlow 2.0.0 with Keras
 
-- GPU with RAM $\geq $ 12GB
+- GPU with RAM \geq 12GB
 
 - CUDA 10.0
 
