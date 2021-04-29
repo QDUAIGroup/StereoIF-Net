@@ -25,7 +25,7 @@ Kindly report any suggestions or corrections to jianwei_1995@hotmail.com
 
 ============================================================================
 
-This is a demonstration of the Stereoscpic Image Quality Assessment Network (StereoQA-Net). The algorithm is described in:
+This is a demonstration of the Stereoscpic Image Quality Assessment Network (StereoIF-Net). The algorithm is described in:
 
 1. Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Lin and Zhenkuan Pan, "A no-reference stereoscopic image quality assessment network based on binocular interaction and fusion mechanisms".
 
