@@ -1,5 +1,6 @@
 # Stereoscopic-Image-Quality-Assessment-Network
-This is a demonstration of the Stereoscpic Image Quality Assessment Network (StereoIF-Net). The algorithm is described in:
+
+This is a demonstration of the Stereoscopic Image Quality Assessment Network  based binocular interaction and fusion mechanisms (StereoIF-Net). The algorithm is described in:
 
 1. Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Lin and Zhenkuan Pan, "A no-reference stereoscopic image quality assessment network based on binocular interaction and fusion mechanisms".
 
@@ -35,13 +36,43 @@ You can use source codes as following instructions.
 
 - Matlab R2017b or later
 
-### Run:
+### Usage:
 
 0. Install the requirements
-1. 
-2. 
 
-#### Step2:
+1. Install Matlab API in python. 
+
+   ```python
+   cd (root_path_of_matlab)\extern\engines\python\
+   python setup.py install
+   ```
+
+2. Obtain SIQA prediction results. You need run `test_SIQA_LIVE1.py` and `test_SIQA_LIVE2.py` to obtain predicted stereoscopic image quality scores of StereoIF-Net on LIVE 3D Phase I and LIVE 3D Phase II database, respectively. The predicted scores are in `./LIVE1/preds_LIVE1.mat` and `./LIVE2/preds_LIVE2.mat` .
+
+   ```python
+   python test_SIQA_LIVE1.py
+   ```
+
+   ```python
+   python test_SIQA_LIVE2.py
+   ```
+
+3. Compare prediction scores with DMOS and obtain the performance of StereoIF-Net. You need run `compute_test_LIVE1.py` and `compute_test_LIVE.py` to get various performance indexes (PLCC and SROCC) on LIVE 3D Phase I and LIVE 3D Phase II database, respectively 
+
+   ```
+   python compute_test_LIVE1.py
+   ```
+
+   ```
+   python compute_test_LIVE2.py
+   ```
+
+### Results
+
+|                  |  PLCC  | SROCC  |
+| :--------------: | :----: | :----: |
+| LIVE 3D Phase I  | 0.9779 | 0.9656 |
+| LIVE 3D Phase II | 0.9717 | 0.9529 |
 
 ## Author information
 
@@ -50,4 +81,3 @@ Author: Jianwei Si Version: 1.0
 The authors are with the College of Computer Science and Technology, Qingdao University, Qingdao 266071, China
 
 Kindly report any suggestions or corrections to jianwei_1995@hotmail.com
-
