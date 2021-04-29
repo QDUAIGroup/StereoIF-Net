@@ -33,6 +33,11 @@ You can change this program as you like and use it anywhere, but please refer to
 
 ============================================================================
 
-Start and Run
+**Start and Run**
 
+Requirement:
+
+- TensorFlow -> 2.0.0
+
+- CUDA -> 10.0
 A stereoscopic image quality assessment metric based on binocular interaction and fusion.
