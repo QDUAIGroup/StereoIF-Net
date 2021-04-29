@@ -58,4 +58,3 @@ You may cite it in your paper. Thanks a lot.
 
 The citation will be added soon...
 
-A stereoscopic image quality assessment metric based on binocular interaction and fusion.
