@@ -17,4 +17,10 @@ QINGDAO UNIVERSITY SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIM
 
 ============================================================================
 
+Author: Jianwei Si Version: 1.0
+
+The authors are with  the College of Computer Science and Technology, Qingdao University, Qingdao 266071, China
+
+Kindly report any suggestions or corrections to jianwei_1995@hotmail.com
+
 A stereoscopic image quality assessment metric based on binocular interaction and fusion.
