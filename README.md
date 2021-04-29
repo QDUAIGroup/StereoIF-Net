@@ -15,4 +15,6 @@ QINGDAO UNIVERSITY SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIM
 
 -----------COPYRIGHT NOTICE ENDS WITH THIS LINE------------%
 
+============================================================================
+
 A stereoscopic image quality assessment metric based on binocular interaction and fusion.
