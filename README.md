@@ -23,4 +23,13 @@ The authors are with  the College of Computer Science and Technology, Qingdao Un
 
 Kindly report any suggestions or corrections to jianwei_1995@hotmail.com
 
+============================================================================
+
+1. Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Li and Zhenkuan Pan, "A no-reference stereoscopic image quality assessment network based on binocular interaction and fusion mechanisms".
+
+You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at https://github.com/QDUAIGroup/StereoIF-Net, 2021).
+
+============================================================================
+
+
 A stereoscopic image quality assessment metric based on binocular interaction and fusion.
