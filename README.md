@@ -23,7 +23,7 @@ QINGDAO UNIVERSITY SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIM
 
 You can use source codes as following instructions.
 
-### Requirement:
+### Requirements:
 
 - Python 3.6
 
@@ -37,7 +37,9 @@ You can use source codes as following instructions.
 
 ### Run:
 
-#### Step1:
+0. Install the requirements
+1. <table><tr><td bgcolor=#FF4500>这里的背景色是：OrangeRed， 十六进制颜色值：#FF4500， rgb(255, 69, 0)</td></tr></table>
+2. 
 
 #### Step2:
 
