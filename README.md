@@ -1,6 +1,7 @@
 # Stereoscopic-Image-Quality-Assessment-Network
-StereoIF-Net Software release. 
 
+
+StereoIF-Net Software release. 
 
 ---
 
