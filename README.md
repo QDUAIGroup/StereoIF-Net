@@ -76,7 +76,7 @@ You can use source codes as following instructions.
 
 ## Contacts
 
-Author: Jianwei Si Version: 1.0
+Author: Jianwei Si  
 
 The authors are with the College of Computer Science and Technology, Qingdao University, Qingdao 266071, China
 
