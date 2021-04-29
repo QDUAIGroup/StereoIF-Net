@@ -52,4 +52,10 @@ Step2:
 
 ============================================================================
 
+Citation:
+
+You may cite it in your paper. Thanks a lot.
+
+Loading...
+
 A stereoscopic image quality assessment metric based on binocular interaction and fusion.
