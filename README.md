@@ -2,8 +2,8 @@
 
 
 StereoIF-Net Software release. 
+$==================================================================================$
 
----
 
 ---COPYRIGHT NOTICE STARTS WITH THIS LINE------------ Copyright (c) 2021 Qingdao University All rights reserved.
 
