@@ -19,9 +19,9 @@ IN NO EVENT SHALL QINGDAO UNIVERSITY BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT
 
 QINGDAO UNIVERSITY SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE DATABASE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS, AND QINGDAO UNIVERSITY HAS NO OBLIGATION TO PROVIDE MAINTENANCE, SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
 
-## How to Start
+## How to Start 
 
-You can use the codes 
+You can use source codes as following instructions.
 
 ### Requirement:
 
@@ -35,11 +35,11 @@ You can use the codes
 
 - Matlab R2017b or later
 
-### Run
+### Run:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step1:
+#### Step1:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Step2:
+#### Step2:
 
 ## Author information
 
