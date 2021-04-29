@@ -74,7 +74,7 @@ You can use source codes as following instructions.
 | LIVE 3D Phase I  | 0.9779 | 0.9656 |
 | LIVE 3D Phase II | 0.9717 | 0.9529 |
 
-## Author information
+## Contacts
 
 Author: Jianwei Si Version: 1.0
 
