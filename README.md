@@ -8,7 +8,7 @@ You can change this program as you like and use it anywhere, but please refer to
 
 The citation will be added soon...
 
-## COPYRIGHT NOTICE
+## Copyright Notice
 
 Copyright (c) 2021 Qingdao University All rights reserved.
 
@@ -40,14 +40,14 @@ You can use source codes as following instructions.
 
 0. Install the requirements
 
-1. Install Matlab API in python. 
+1. Install Matlab API in python
 
    ```python
    cd (root_path_of_matlab)\extern\engines\python\
    python setup.py install
    ```
 
-2. Obtain SIQA prediction results. You need run `test_SIQA_LIVE1.py` and `test_SIQA_LIVE2.py` to obtain predicted stereoscopic image quality scores of StereoIF-Net on LIVE 3D Phase I and LIVE 3D Phase II database, respectively. The predicted scores are in `./LIVE1/preds_LIVE1.mat` and `./LIVE2/preds_LIVE2.mat` .
+2. Obtain SIQA prediction results. You need run `test_SIQA_LIVE1.py` and `test_SIQA_LIVE2.py` to obtain predicted stereoscopic image quality scores of StereoIF-Net on LIVE 3D Phase I and LIVE 3D Phase II database, respectively. The predicted scores are in `./LIVE1/preds_LIVE1.mat` and `./LIVE2/preds_LIVE2.mat` 
 
    ```python
    python test_SIQA_LIVE1.py
