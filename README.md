@@ -1,13 +1,9 @@
 # Stereoscopic-Image-Quality-Assessment-Network
 This is a demonstration of the Stereoscpic Image Quality Assessment Network (StereoIF-Net). The algorithm is described in:
 
-Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Lin and Zhenkuan Pan, "A no-reference stereoscopic image quality assessment network based on binocular interaction and fusion mechanisms".
+1. Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Lin and Zhenkuan Pan, "A no-reference stereoscopic image quality assessment network based on binocular interaction and fusion mechanisms".
 
-You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at https://github.com/QDUAIGroup/StereoIF-Net, 2021).
-
-### Citation:
-
-You may cite it in your paper. Thanks a lot.
+You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at https://github.com/QDUAIGroup/StereoIF-Net, 2021) or cite the citation in your paper as follows:
 
 The citation will be added soon...
 
