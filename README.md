@@ -1,15 +1,4 @@
 # Stereoscopic-Image-Quality-Assessment-Network
-StereoIF-Net Software release. 
-
-============================================================================
-
------------COPYRIGHT NOTICE STARTS WITH THIS LINE------------
-
-Copyright (c) 2021 Qingdao University All rights reserved.
-
-Permission is hereby granted, without written agreement and without license or royalty fees, to use, copy, modify, and distribute this code (the source files) and its documentation for any purpose, provided that the copyright notice in its entirety appear in all copies of this code, and the original source of this code,Computer Science of Technology at Qingdao University (QDU), is acknowledged in any publication that reports research using this code. The research is to be cited in the bibliography as:
-
-# Stereoscopic-Image-Quality-Assessment-Network
 This is a demonstration of the Stereoscpic Image Quality Assessment Network (StereoIF-Net). The algorithm is described in:
 
 Jianwei Si, Baoxiang Huang, Huan Yang, Weisi Lin and Zhenkuan Pan, "A no-reference stereoscopic image quality assessment network based on binocular interaction and fusion mechanisms".
