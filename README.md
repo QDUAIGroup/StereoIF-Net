@@ -40,7 +40,7 @@ You can use source codes as following instructions.
 
 0. Install the requirements
 
-1. Install Matlab API in python
+1. Install Matlab API in python.
 
    ```python
    cd (root_path_of_matlab)\extern\engines\python\
@@ -57,7 +57,7 @@ You can use source codes as following instructions.
    python test_SIQA_LIVE2.py
    ```
 
-3. Compare prediction scores with DMOS and obtain the performance of StereoIF-Net. You need run `compute_test_LIVE1.py` and `compute_test_LIVE.py` to get various performance indexes (PLCC and SROCC) on LIVE 3D Phase I and LIVE 3D Phase II database, respectively 
+3. Compare prediction scores with DMOS to obtain the performance of StereoIF-Net. You need run `compute_test_LIVE1.py` and `compute_test_LIVE.py` to get various performance indexes (PLCC and SROCC) on LIVE 3D Phase I and LIVE 3D Phase II database, respectively 
 
    ```
    python compute_test_LIVE1.py
@@ -76,7 +76,7 @@ You can use source codes as following instructions.
 
 ## Contacts
 
-Author: Jianwei Si  
+Author: Jianwei Si 
 
 The authors are with the College of Computer Science and Technology, Qingdao University, Qingdao 266071, China
 
