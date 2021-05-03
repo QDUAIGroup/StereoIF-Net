@@ -78,6 +78,6 @@ You can use source codes as following instructions.
 
 Author: Jianwei Si 
 
-The authors are with the College of Computer Science and Technology, Qingdao University, Qingdao 266071, China
+The author is with the College of Computer Science and Technology, Qingdao University, Qingdao 266071, China
 
 Kindly report any suggestions or corrections to jianwei_1995@hotmail.com
