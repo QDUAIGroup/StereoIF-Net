@@ -6,7 +6,7 @@ This is a demonstration of the Stereoscopic Image Quality Assessment Network  ba
 
 You can change this program as you like and use it anywhere, but please refer to its original source (cite our paper and our web page at https://github.com/QDUAIGroup/StereoIF-Net, 2021) or cite the citation in your paper as follows:
 
-The citation will be added soon...
+*The citation will be added soon...*
 
 ## Copyright Notice
 
