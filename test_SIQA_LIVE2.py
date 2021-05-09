@@ -7,7 +7,7 @@ import tensorflow as tf
 os.environ["CUDA_VISIBLE_DEVICES"] = "0"
 
 
-def time_change(time_init):   # The function is applied to calculate left computational time.
+def time_change(time_init):   # The function is applied to calculate rest computational time.
     time_list = []
     if time_init/3600 > 1:
         time_h = int(time_init/3600)
